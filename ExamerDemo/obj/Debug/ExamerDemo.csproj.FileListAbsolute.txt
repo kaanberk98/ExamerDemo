@@ -1,0 +1,20 @@
+C:\Users\MONSTER\source\repos\ExamerDemo\bin\Debug\ExamerDemo.exe.config
+C:\Users\MONSTER\source\repos\ExamerDemo\bin\Debug\ExamerDemo.exe
+C:\Users\MONSTER\source\repos\ExamerDemo\bin\Debug\ExamerDemo.pdb
+C:\Users\MONSTER\source\repos\ExamerDemo\obj\Debug\ExamerDemo.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\ExamerDemo\obj\Debug\ExamerDemo.Form1.resources
+C:\Users\MONSTER\source\repos\ExamerDemo\obj\Debug\ExamerDemo.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\ExamerDemo\obj\Debug\ExamerDemo.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\ExamerDemo\obj\Debug\ExamerDemo.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\ExamerDemo\obj\Debug\ExamerDemo.exe
+C:\Users\MONSTER\source\repos\ExamerDemo\obj\Debug\ExamerDemo.pdb
+C:\Users\Kaan Berk BİLGİN\Source\Repos\ExamerDemo\bin\Debug\ExamerDemo.exe.config
+C:\Users\Kaan Berk BİLGİN\Source\Repos\ExamerDemo\bin\Debug\ExamerDemo.exe
+C:\Users\Kaan Berk BİLGİN\Source\Repos\ExamerDemo\bin\Debug\ExamerDemo.pdb
+C:\Users\Kaan Berk BİLGİN\Source\Repos\ExamerDemo\obj\Debug\ExamerDemo.csprojAssemblyReference.cache
+C:\Users\Kaan Berk BİLGİN\Source\Repos\ExamerDemo\obj\Debug\ExamerDemo.Form1.resources
+C:\Users\Kaan Berk BİLGİN\Source\Repos\ExamerDemo\obj\Debug\ExamerDemo.Properties.Resources.resources
+C:\Users\Kaan Berk BİLGİN\Source\Repos\ExamerDemo\obj\Debug\ExamerDemo.csproj.GenerateResource.cache
+C:\Users\Kaan Berk BİLGİN\Source\Repos\ExamerDemo\obj\Debug\ExamerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kaan Berk BİLGİN\Source\Repos\ExamerDemo\obj\Debug\ExamerDemo.exe
+C:\Users\Kaan Berk BİLGİN\Source\Repos\ExamerDemo\obj\Debug\ExamerDemo.pdb
